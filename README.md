@@ -17,7 +17,7 @@ easier to catch and fix issues before they become threats.
 
 ### Steps
 1. Clone the repository
-   git clone https://github.com/yourusername/azure-security-checker.git
+   git clone https://github.com/Thiswasthatis/azure-security-checker.git
 
 2. Navigate into the folder
    cd azure-security-checker
