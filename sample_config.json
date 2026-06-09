@@ -1,0 +1,9 @@
+{
+  "storage_account": {
+    "https_only": false,
+    "public_blob_access": false
+  },
+  "identity": {
+    "mfa_enabled": true
+  }
+}
